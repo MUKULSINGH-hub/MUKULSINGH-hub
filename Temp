@@ -1,0 +1,21 @@
+<nav class="navbar navbar-expand navbar-dark bg-dark static-top">
+  <a class="navbar-brand mr-1" href="{%url 'index'%}"style="font-weight:bold;"
+    ><img src="{% static 'img/nav-1.png'%}" style="height: 50px; width: 70px" />
+    Resume Generator
+  </a>
+  <p
+    class="d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0"
+  ></p>
+  <ul class="navbar-nav ml-auto ml-md-0">
+    <a href="{% url 'index'%}" style="font-weight:bold; color:rgb(255, 255, 255);
+    margin-right:10px ;
+    margin-left:20px">Home</a>
+    <a href="{% url 'login' %}" style="font-weight:bold; color:rgb(255, 255, 255);
+    margin-right:10px ;
+    margin-left:20px">Sign In</a>
+    <a href=""style=" font-weight:bold; color:rgb(255, 255, 255);
+    margin-right:10px;
+    margin-left:20px
+    ">Sign Out</a>
+  </ul>
+</nav>
