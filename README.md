@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukul singh adhikari</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Python developer from India</h3>
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **mukuladhikari14@gmail.com**
 
